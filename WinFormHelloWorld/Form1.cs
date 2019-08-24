@@ -17,6 +17,8 @@ namespace WinFormHelloWorld
             InitializeComponent();
             // Some comment
             // Another comment
+
+            // This is the branch for MyNewFeature
         }
     }
 }
