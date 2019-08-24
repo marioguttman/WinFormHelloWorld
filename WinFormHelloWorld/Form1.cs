@@ -15,6 +15,7 @@ namespace WinFormHelloWorld
         public Form1()
         {
             InitializeComponent();
+            // Some comment
         }
     }
 }
